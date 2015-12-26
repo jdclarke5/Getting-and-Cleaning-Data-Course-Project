@@ -15,7 +15,7 @@ The script first does the following to import and tidy the data:
 * Replace numbered activity names with descriptive activity names
 * Create a tidy dataset
 * Appropriately label the data set with descriptive variable names
-* 
+
 Now we move on to creating the tidyAvg tidy dataset:
 
 * First split data by subject and activity
